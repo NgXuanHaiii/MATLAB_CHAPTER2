@@ -1,0 +1,9 @@
+note code matlab 
+
+
+chương trình  5_1 : ảnh đầu vào phải phải có kích thước 650x600x3 
+Phải xử lí đầu vào :  hàm inreead(): là hàm trả về ảnh có kích thước 650x600x3 
+
+
+chương trình  5.8 : file Yuan.n của nhóm trước bị lỗi. 
+cách fix : thay file Yuan.m vào để thực hiện chương trình
